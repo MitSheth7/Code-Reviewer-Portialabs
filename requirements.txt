@@ -1,0 +1,3 @@
+portia-sdk-python[mistral]
+python-dotenv
+rich  # For better terminal output 
