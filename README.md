@@ -12,6 +12,11 @@ This project implements an **AI-powered code review assistant** using the **Port
 - **Customizable reviews**: Select the type of review that best suits your needs (general, security, or performance).
 - **User-friendly interface**: Code snippets are displayed with syntax highlighting, and reviews are formatted for easy reading.
 
+![code reviewer 1](https://github.com/user-attachments/assets/ce935d1c-4457-4cf5-9a1e-f7562d580ee6)
+![Code revrier 2](https://github.com/user-attachments/assets/9a07c957-e351-4fd8-b6f4-2bc2cfd2eb06)
+![code reviewer number 3](https://github.com/user-attachments/assets/bcf800f0-54b0-4665-9392-e7851681fb0e)
+
+
 ## What I Liked About Portialabs SDK
 
 1. **Ease of Integration**: 
